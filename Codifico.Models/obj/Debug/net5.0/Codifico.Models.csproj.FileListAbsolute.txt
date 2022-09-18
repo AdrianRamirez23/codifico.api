@@ -1,0 +1,12 @@
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\bin\Debug\net5.0\Codifico.Models.deps.json
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\bin\Debug\net5.0\Codifico.Models.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\bin\Debug\net5.0\ref\Codifico.Models.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\bin\Debug\net5.0\Codifico.Models.pdb
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\obj\Debug\net5.0\Codifico.Models.csproj.AssemblyReference.cache
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\obj\Debug\net5.0\Codifico.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\obj\Debug\net5.0\Codifico.Models.AssemblyInfoInputs.cache
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\obj\Debug\net5.0\Codifico.Models.AssemblyInfo.cs
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\obj\Debug\net5.0\Codifico.Models.csproj.CoreCompileInputs.cache
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\obj\Debug\net5.0\Codifico.Models.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\obj\Debug\net5.0\ref\Codifico.Models.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Models\obj\Debug\net5.0\Codifico.Models.pdb

@@ -1,0 +1,17 @@
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\obj\Debug\net5.0\Codifico.Bussiness.csproj.AssemblyReference.cache
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\obj\Debug\net5.0\Codifico.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\obj\Debug\net5.0\Codifico.Bussiness.AssemblyInfoInputs.cache
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\obj\Debug\net5.0\Codifico.Bussiness.AssemblyInfo.cs
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\obj\Debug\net5.0\Codifico.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\bin\Debug\net5.0\Codifico.Bussiness.deps.json
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\bin\Debug\net5.0\Codifico.Bussiness.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\bin\Debug\net5.0\ref\Codifico.Bussiness.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\bin\Debug\net5.0\Codifico.Bussiness.pdb
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\bin\Debug\net5.0\Codifico.Models.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\bin\Debug\net5.0\Codifico.Services.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\bin\Debug\net5.0\Codifico.Models.pdb
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\bin\Debug\net5.0\Codifico.Services.pdb
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\obj\Debug\net5.0\Codifico.Bussiness.csproj.CopyComplete
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\obj\Debug\net5.0\Codifico.Bussiness.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\obj\Debug\net5.0\ref\Codifico.Bussiness.dll
+C:\Users\JobsCenter\source\repos\Codifico.API\Codifico.Bussiness\obj\Debug\net5.0\Codifico.Bussiness.pdb

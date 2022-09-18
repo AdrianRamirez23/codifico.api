@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Codifico.Models/1.0.0": {
+        "runtime": {
+          "Codifico.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Codifico.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
